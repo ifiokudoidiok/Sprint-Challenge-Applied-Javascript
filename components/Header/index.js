@@ -31,7 +31,3 @@ function Header() {
     return headerDiv;
 }
 document.querySelector('.header-container').appendChild(Header());
-
-// const headComponent = Header();
-
-// headerElements.appendChildHeader();
